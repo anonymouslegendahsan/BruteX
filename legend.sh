@@ -1,8 +1,8 @@
-#created by MrHacker-X; give me credit if you're using any part of this script.
+#created by LEGEND; give me credit if you're using any part of this script.
 #bin/bash
 
 clear
-echo -e "\033[1;92m  
+echo -e "\033[1;92m 
   _      ______ _____ ______ _   _ _____  
  | |    |  ____/ ____|  ____| \ | |  __ \ 
  | |    | |__ | |  __| |__  |  \| | |  | |
